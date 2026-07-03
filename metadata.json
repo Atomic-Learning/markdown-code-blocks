@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Markdown: Code Blocks",
+    "slug": "markdown-code-blocks",
+    "description": "A description of how to include blocks of code in Markdown, including syntax highlighting.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "markdown"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "markdown-introduction"
     ],
     "related": [
-        "",
-        ""
+        "markdown-inline-code"
     ]
 }
